@@ -12,7 +12,7 @@ the transaction.
 
 ## Example
 
-```bash
+```python
 Welcome to the Vending Machine!
 Enter 0 to exit the machine.
 Available products: 
